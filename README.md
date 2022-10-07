@@ -8,5 +8,3 @@
 ### Rum command npm run build for generate build code.
 
 ### Run command npm run start for start the backend server
-# react-backend
-# react-backend
